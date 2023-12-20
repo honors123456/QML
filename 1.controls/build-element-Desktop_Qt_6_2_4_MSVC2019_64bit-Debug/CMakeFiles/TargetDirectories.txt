@@ -1,0 +1,14 @@
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement_qmltyperegistration.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement_other_files.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement_qmllint.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/all_qmllint.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement_tooling.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement_autogen_timestamp_deps.dir
+D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/appelement_autogen.dir

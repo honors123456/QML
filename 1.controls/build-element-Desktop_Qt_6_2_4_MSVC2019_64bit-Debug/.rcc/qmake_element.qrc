@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/element">
+    <file alias="qmldir">D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/element/qmldir</file>
+  </qresource>
+</RCC>
+

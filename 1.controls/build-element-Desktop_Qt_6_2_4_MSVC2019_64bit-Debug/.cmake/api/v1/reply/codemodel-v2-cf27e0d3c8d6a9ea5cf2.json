@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-836b99792aad4083be91.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "element",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f696df3bd2883acf2db4.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-2ccfc5a7e617ff57ed37.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement-Debug-cd466288de01084c7bd9.json",
+					"name" : "appelement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement_autogen-Debug-9f6e84c5bda183bb58c0.json",
+					"name" : "appelement_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement_autogen_timestamp_deps-Debug-8a5e8192075a26626d63.json",
+					"name" : "appelement_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement_other_files-Debug-b4e4cbbab5d3764658d3.json",
+					"name" : "appelement_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement_qmllint-Debug-b7ece026c39c46bbe371.json",
+					"name" : "appelement_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement_qmltyperegistration-Debug-d7f6990c141fc8ff7785.json",
+					"name" : "appelement_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appelement_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appelement_tooling-Debug-7ec12a25c5e55eed519e.json",
+					"name" : "appelement_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Cpluscode/QML/1.controls/build-element-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug",
+		"source" : "D:/Cpluscode/QML/1.controls/element"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

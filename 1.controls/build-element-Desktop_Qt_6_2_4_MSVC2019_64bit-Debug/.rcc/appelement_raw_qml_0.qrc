@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/element/">
+    <file alias="Main.qml">D:/Cpluscode/QML/1.controls/element/Main.qml</file>
+  </qresource>
+</RCC>
+
